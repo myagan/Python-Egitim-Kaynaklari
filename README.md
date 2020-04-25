@@ -19,13 +19,13 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [mobilhanem](https://www.mobilhanem.com/algoritma-egitimleri/)
      
 4. Python Başlangıç Düzey Eğitimler
-     - Türkçe Eğitimler
-     - [python-istihza.yazbel](https://python-istihza.yazbel.com/)
-     - [Bilgisayar Bilimcisi Gibi Düşünmek ](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf)
-     - [Python 3 Programlama Diline Giriş](http://www.bedriemir.com/Python/content.html)
-     - Yabancı Dilde Eğitimler
-     - [programiz](https://www.programiz.com/python-programming)
-     - [geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)
+     - ### Türkçe Eğitimler
+       - [python-istihza.yazbel](https://python-istihza.yazbel.com/)
+       - [Bilgisayar Bilimcisi Gibi Düşünmek ](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf)
+       - [Python 3 Programlama Diline Giriş](http://www.bedriemir.com/Python/content.html)
+     - ### Yabancı Dilde Eğitimler
+       - [programiz](https://www.programiz.com/python-programming)
+       - [geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)
 
 5. Python Orta düzey Alıştırmalar
      - [hackerrank](https://www.hackerrank.com/)
