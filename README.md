@@ -66,7 +66,7 @@ Java, Go, Python, Node.js, vb., kod arama / çapraz referanslar, Açık Kaynak i
      - [tickgit](https://www.tickgit.com/)  
 Yüzey TODOiyileştirme için geri dönmeye değer kod alanlarını belirlemek için yorumlar (ve diğer işaretler).
 
-1-1. Git Yardım Sayfası
+13. Git Yardım Sayfası
 
      - [Github Help](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  
      
