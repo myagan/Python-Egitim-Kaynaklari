@@ -25,6 +25,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 8. Eğitim Uygulama ve Web Siteleri
      - [coursera](https://www.coursera.org/)
      - [edx](https://www.edx.org/)
+     - [edureka](https://www.edureka.co/blog/)
      
 9. Kitaplar
 
