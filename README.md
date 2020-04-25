@@ -30,11 +30,11 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 
      - Numpy Eğitim Kaynakları
        - [Numpy.org](https://numpy.org/devdocs/user/quickstart.html#an-example)
-       - [Hüseyin Demir](https://www.youtube.com/watch?v=cwEKC6-ZMpY&list=PLCj7QTvBtFBn_j3rceiIVGSEIkBDEt9OP&index=2)
+       - [Numpy Eğitimi (Hüseyin Demir)](https://www.youtube.com/watch?v=cwEKC6-ZMpY&list=PLCj7QTvBtFBn_j3rceiIVGSEIkBDEt9OP&index=2)
        
      - Pandas Eğitim Kaynakları
        - [pandas.pydata.org](https://pandas.pydata.org/docs/)
-       - [Mert Çobanov](https://www.youtube.com/watch?v=8pn4hSZ-5ds&list=PLk54I7lqQSsaV8SxQDj19JVKfE_cM-Skp)
+       - [Pandas Egzersizleri (Mert Çobanov)](https://www.youtube.com/watch?v=8pn4hSZ-5ds&list=PLk54I7lqQSsaV8SxQDj19JVKfE_cM-Skp)
 
 7. Bloglar
 
