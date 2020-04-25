@@ -23,7 +23,9 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 7. Bloglar
 
 8. Eğitim Uygulama ve Web Siteleri
-
+     - [coursera](https://www.coursera.org/)
+     - [edx](https://www.edx.org/)
+     
 9. Kitaplar
 
 10. Faydalı Yazılar
