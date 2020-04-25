@@ -4,36 +4,36 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 ## İçerikler
 </br>
 
-### 1. İngilizce Eğitim
+1. İngilizce Eğitim
      - [Miniversite](http://www.ozkancelen.com/)
        - [Miniversite Youtube](https://www.youtube.com/channel/UCyaeK2QAUXoeL1iYykgFHIg/playlists)
        
-### 2. Matematik Eğitimi
+2. Matematik Eğitimi
      - [Khan Academy Türkçe](https://www.youtube.com/user/KhanAcademyTurkce/playlists)
 
-### 3. Algoritma Eğitimi
+3. Algoritma Eğitimi
 
-### 4. Python Başlangıç Düzey Eğitimler
+4. Python Başlangıç Düzey Eğitimler
 
-### 5. Python Orta düzey Alıştırmalar
+5. Python Orta düzey Alıştırmalar
      - [hackerrank](https://www.hackerrank.com/)
 
-### 6. Python Modül ve Frameworkler
+6. Python Modül ve Frameworkler
 
-### 7. Bloglar
+7. Bloglar
 
-### 8. Eğitim Uygulama ve Web Siteleri
+8. Eğitim Uygulama ve Web Siteleri
      - [coursera](https://www.coursera.org/)
      - [edx](https://www.edx.org/)
      - [edureka](https://www.edureka.co/blog/)
      
-### 9. Kitaplar
+9. Kitaplar
 
-### 10. Faydalı Yazılar
+10. Faydalı Yazılar
 
-### 11. Örnek Uygulamalar
+11. Örnek Uygulamalar
 
-### 12. Kod Arama ve Tamamlama İşlemleri İçin
+12. Kod Arama ve Tamamlama İşlemleri İçin
 
      - [codota](https://www.codota.com/)  
      Codota, dünyadaki tüm kodlardan öğrenilen bilgileri sağlayarak geliştiricilerin daha hızlı, daha iyi yazılım oluşturmalarına yardımcı olur. Eklenti mevcut.
