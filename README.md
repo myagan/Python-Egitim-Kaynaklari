@@ -15,9 +15,10 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 
 4. Python Başlangıç Düzey Eğitimler
 
-5. Python Modüller
+5. Python Orta düzey Alıştırmalar
+     - [hackerrank](https://www.hackerrank.com/)
 
-6. Python Frameworkler
+6. Python Modül ve Frameworkler
 
 7. Bloglar
 
