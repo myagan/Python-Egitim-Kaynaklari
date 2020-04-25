@@ -21,6 +21,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 4. Python Başlangıç Düzey Eğitimler
      - [python-istihza.yazbel](https://python-istihza.yazbel.com/)
      - [programiz](https://www.programiz.com/python-programming)
+     - [geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)
 
 5. Python Orta düzey Alıştırmalar
      - [hackerrank](https://www.hackerrank.com/)
