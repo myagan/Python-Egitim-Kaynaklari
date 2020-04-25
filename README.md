@@ -12,4 +12,20 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Khan Academy Türkçe](https://www.youtube.com/user/KhanAcademyTurkce/playlists)
 
 3. Algoritma Eğitimi
-       
+
+4. Python Başlangıç Düzey Eğitimler
+
+5. Python Modüller
+
+6. Python Frameworkler
+
+7. Bloglar
+
+8. Eğitim Uygulama ve Web Siteleri
+
+9. Kitaplar
+
+10. Faydalı Yazılar
+
+11. Örnek Uygulamalar
+
