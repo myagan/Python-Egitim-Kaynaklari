@@ -15,7 +15,9 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Khan Academy Türkçe](https://www.youtube.com/user/KhanAcademyTurkce/playlists)
 
 3. Algoritma Eğitimi
-
+     - [khanacademy](http://www.khanacademy.org.tr/arama.asp)
+     - [mobilhanem](https://www.mobilhanem.com/algoritma-egitimleri/)
+     
 4. Python Başlangıç Düzey Eğitimler
 
 5. Python Orta düzey Alıştırmalar
