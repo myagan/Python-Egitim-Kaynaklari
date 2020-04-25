@@ -33,3 +33,19 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 
 11. Örnek Uygulamalar
 
+12. Kod Arama ve Tamamlama İşlemleri İçin
+
+     - [codota](https://www.codota.com/)  
+     Codota, dünyadaki tüm kodlardan öğrenilen bilgileri sağlayarak geliştiricilerin daha hızlı, daha iyi yazılım oluşturmalarına yardımcı olur. Eklenti mevcut.
+     
+     - [libraries](https://libraries.io/)  
+     32 farklı paket yöneticisi için açık kaynak kodlu ücretsiz arama ve bağımlılık güncelleme bildirimleri
+     
+     - [searchcode](https://searchcode.com/)  
+Açık Kaynak için ücretsiz, kapsamlı metin tabanlı kod arama
+
+     - [sourcegraph](https://about.sourcegraph.com/)  
+Java, Go, Python, Node.js, vb., kod arama / çapraz referanslar, Açık Kaynak için ücretsiz
+
+     - [tickgit](https://www.tickgit.com/)  
+Yüzey TODOiyileştirme için geri dönmeye değer kod alanlarını belirlemek için yorumlar (ve diğer işaretler).
