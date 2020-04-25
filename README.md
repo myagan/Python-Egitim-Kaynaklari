@@ -1,3 +1,6 @@
+
+![banner resmi](https://miro.medium.com/max/1000/1*rZ35gCues-RXFTscRvX1iQ.png)
+
 # Python-Egitim-Kaynaklari
 Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kaynakları (Video Eğitim, Makale, Çeviri, Slayt vb..) bulabilirsiniz. Kaynaklar hazırlanırken bu konuda uzman kişilerin önerileri ve eğitimde odaklanmayı sürdürülebilir hale getirebilen eğitimler baz alınmıştır, faydalı olması temennisiyle!
 
