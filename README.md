@@ -29,11 +29,11 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 6. Python Modül ve Frameworkler
 
      - Numpy Eğitim Kaynakları
-       - [pandas.pydata.org](https://pandas.pydata.org/docs/)
+       - [Numpy.org](https://numpy.org/devdocs/user/quickstart.html#an-example)
        - [Hüseyin Demir](https://www.youtube.com/watch?v=cwEKC6-ZMpY&list=PLCj7QTvBtFBn_j3rceiIVGSEIkBDEt9OP&index=2)
        
      - Pandas Eğitim Kaynakları
-       - [Numpy.org](https://numpy.org/devdocs/user/quickstart.html#an-example)
+       - [pandas.pydata.org](https://pandas.pydata.org/docs/)
        - [Mert Çobanov](https://www.youtube.com/watch?v=8pn4hSZ-5ds&list=PLk54I7lqQSsaV8SxQDj19JVKfE_cM-Skp)
 
 7. Bloglar
