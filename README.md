@@ -10,4 +10,6 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
        
 2. Matematik Eğitimi
      - [Khan Academy Türkçe](https://www.youtube.com/user/KhanAcademyTurkce/playlists)
-       - [Miniversite Youtube](https://www.youtube.com/channel/UCyaeK2QAUXoeL1iYykgFHIg/playlists)
+
+3. Algoritma Eğitimi
+       
