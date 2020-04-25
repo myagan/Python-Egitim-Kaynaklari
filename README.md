@@ -29,8 +29,8 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 6. Python Modül ve Frameworkler
 
      - [Numpy]
-       - [Numpy](https://numpy.org/devdocs/user/quickstart.html#an-example)
-       - [Hüseyin Demir](https://www.youtube.com/watch?v=XuKI2VZkUpg&list=PLCj7QTvBtFBn_j3rceiIVGSEIkBDEt9OP)
+       - [Numpy.org](https://numpy.org/devdocs/user/quickstart.html#an-example)
+       - [Hüseyin Demir](https://www.youtube.com/watch?v=cwEKC6-ZMpY&list=PLCj7QTvBtFBn_j3rceiIVGSEIkBDEt9OP&index=2)
 
 7. Bloglar
 
