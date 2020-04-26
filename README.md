@@ -50,6 +50,8 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [coursera](https://www.coursera.org/)
      - [edx](https://www.edx.org/)
      - [edureka](https://www.edureka.co/blog/)
+     - [Udemy](https://www.udemy.com/)
+     - [Udacity](https://www.udacity.com/)
      
 9. ### Kitaplar
 
