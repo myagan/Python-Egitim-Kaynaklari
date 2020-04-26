@@ -44,7 +44,12 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
        - [pandas.pydata.org](https://pandas.pydata.org/docs/)
        - [Pandas Egzersizleri (Mert Çobanov)](https://www.youtube.com/watch?v=8pn4hSZ-5ds&list=PLk54I7lqQSsaV8SxQDj19JVKfE_cM-Skp)
 
-7. ### Bloglar
+7. ### Notebook
+
+     - [Jupyter Notebook](https://jupyter.org/try)
+     - [Kaggle Notebook](https://www.kaggle.com/)
+     - [Google Colab](https://colab.research.google.com/)
+
 
 8. ### Eğitim Uygulama ve Web Siteleri
      - [coursera](https://www.coursera.org/)
