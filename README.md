@@ -52,6 +52,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [edureka](https://www.edureka.co/blog/)
      - [Udemy](https://www.udemy.com/)
      - [Udacity](https://www.udacity.com/)
+     - [Stanford Online](https://online.stanford.edu/courses-programs?type=All)
      
 9. ### Kitaplar
 
