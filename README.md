@@ -29,6 +29,10 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 
 5. ### Python Orta düzey Alıştırmalar
      - [hackerrank](https://www.hackerrank.com/)
+     - [Google Codejam](https://codingcompetitions.withgoogle.com/codejam)
+     - [hackerearth](https://www.hackerearth.com/)
+     - [Codesignal](https://codesignal.com/)
+     - [Topcoder](https://www.topcoder.com/)
 
 6. ### Python Modül ve Frameworkler
 
