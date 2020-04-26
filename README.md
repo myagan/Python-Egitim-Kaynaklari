@@ -21,7 +21,6 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 4. ### Python Başlangıç Düzey Eğitimler
      - #### Türkçe Eğitimler
        - [python-istihza.yazbel](https://python-istihza.yazbel.com/)
-       - [Bilgisayar Bilimcisi Gibi Düşünmek ](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf)
        - [Python 3 Programlama Diline Giriş](http://www.bedriemir.com/Python/content.html)
      - #### Yabancı Dilde Eğitimler
        - [programiz](https://www.programiz.com/python-programming)
@@ -61,6 +60,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Stanford Online](https://online.stanford.edu/courses-programs?type=All)
      
 9. ### Kitaplar
+     - [Bilgisayar Bilimcisi Gibi Düşünmek ](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf)
 
 10. ### Faydalı Yazılar
 
