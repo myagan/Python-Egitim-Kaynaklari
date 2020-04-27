@@ -31,13 +31,15 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
        - [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
        - [Python-course-Magic-Methods](https://www.python-course.eu/python3_magic_methods.php#call%20method)
        - [Data-flair](https://data-flair.training/blogs/python-namedtuple/)
+       - [it-swarm](https://www.it-swarm.dev/tr/python-3.x/)
 
-5. ### Python Orta düzey Alıştırmalar
+5. ### Python Orta düzey Alıştırmalar - Yarışmalar - Hackathon
      - [hackerrank](https://www.hackerrank.com/)
      - [Google Codejam](https://codingcompetitions.withgoogle.com/codejam)
      - [hackerearth](https://www.hackerearth.com/)
      - [Codesignal](https://codesignal.com/)
      - [Topcoder](https://www.topcoder.com/)
+     - [zindi.africa](https://zindi.africa/hackathons)
      - [Stackoverflow](https://stackoverflow.com/)
 
 6. ### Python Modül ve Frameworkler
@@ -90,7 +92,12 @@ Java, Go, Python, Node.js, vb., kod arama / çapraz referanslar, Açık Kaynak i
      - [tickgit](https://www.tickgit.com/)  
 Yüzey TODOiyileştirme için geri dönmeye değer kod alanlarını belirlemek için yorumlar (ve diğer işaretler).
 
-13. ### Faydalı olabilecek linkler
+13. ### Seminer & Meetup
+
+     - [meetup](https://www.meetup.com/tr-TR/)  
+     - [rltheoryseminars](https://sites.google.com/view/rltheoryseminars)  
+     
+14. ### Faydalı olabilecek linkler
 
      - [regex101](https://regex101.com/)  
      - [Github Help](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  
