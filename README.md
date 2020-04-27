@@ -71,7 +71,11 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 9. ### Kitaplar
      - [Bilgisayar Bilimcisi Gibi Düşünmek ](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf)
 
-10. ### Faydalı Yazılar
+10. ### Faydalı Konular-Makaleler-Yazılar
+     - [Geliştiriciler için tavsiyeler](https://www.tutorialspoint.com/developers_best_practices/index.htm)
+     - [Bilgisayar Sözlüğü](https://www.tutorialspoint.com/computer_glossary.htm)
+     - [Etkili Özgeçmiş Yazımı](https://www.tutorialspoint.com/effective_resume_writing.htm)
+     - [Bilgisayar Bilimlerinde Kim Kimdir](https://www.tutorialspoint.com/computer_whoiswho.htm)
 
 11. ### Örnek Uygulamalar
 
