@@ -13,10 +13,13 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
        
 2. ### Matematik Eğitimi
      - [Khan Academy Türkçe](https://www.youtube.com/user/KhanAcademyTurkce/playlists)
+     - [Ceyhun Hoca](https://www.youtube.com/channel/UCJIlDVrWCFbmGORmrKPom8w/playlists)
 
 3. ### Algoritma Eğitimi
      - [khanacademy](https://tr.khanacademy.org/computing/computer-science/algorithms)
      - [mobilhanem](https://www.mobilhanem.com/algoritma-egitimleri/)
+     
+     - [Diagrams](https://app.diagrams.net/)
      
 4. ### Python Başlangıç Düzey Eğitimler
      - #### Türkçe Eğitimler
@@ -25,6 +28,9 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - #### Yabancı Dilde Eğitimler
        - [programiz](https://www.programiz.com/python-programming)
        - [geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)
+       - [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
+       - [Python-course-Magic-Methods](https://www.python-course.eu/python3_magic_methods.php#call%20method)
+       - [Data-flair](https://data-flair.training/blogs/python-namedtuple/)
 
 5. ### Python Orta düzey Alıştırmalar
      - [hackerrank](https://www.hackerrank.com/)
@@ -35,7 +41,8 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Stackoverflow](https://stackoverflow.com/)
 
 6. ### Python Modül ve Frameworkler
-
+     - Pypi aracılığıyla Modül & Framework arayabililirsiniz
+       - [pypi.org](https://pypi.org/)
      - Numpy Eğitim Kaynakları
        - [Numpy.org](https://numpy.org/devdocs/user/quickstart.html#an-example)
        - [Numpy Eğitimi (Hüseyin Demir)](https://www.youtube.com/watch?v=cwEKC6-ZMpY&list=PLCj7QTvBtFBn_j3rceiIVGSEIkBDEt9OP&index=2)
@@ -83,8 +90,9 @@ Java, Go, Python, Node.js, vb., kod arama / çapraz referanslar, Açık Kaynak i
      - [tickgit](https://www.tickgit.com/)  
 Yüzey TODOiyileştirme için geri dönmeye değer kod alanlarını belirlemek için yorumlar (ve diğer işaretler).
 
-13. ### Git Yardım Sayfası
+13. ### Faydalı olabilecek linkler
 
+     - [regex101](https://regex101.com/)  
      - [Github Help](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  
      
      
