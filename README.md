@@ -63,14 +63,14 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 
 
 8. ### Eğitim Uygulama ve Web Siteleri
-     - [İntel Developer Zone](https://software.intel.com/en-us)
-     - [Intel AI Developer Program Courses](https://software.intel.com/en-us/ai/courses)
+
      - [coursera](https://www.coursera.org/)
      - [edx](https://www.edx.org/)
      - [edureka](https://www.edureka.co/blog/)
      - [Udemy](https://www.udemy.com/)
      - [Udacity](https://www.udacity.com/)
      - [Stanford Online](https://online.stanford.edu/courses-programs?type=All)
+     - [Intel AI Developer Program Courses](https://software.intel.com/en-us/ai/courses)
      
 9. ### Kitaplar
      - [Bilgisayar Bilimcisi Gibi Düşünmek ](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf)
