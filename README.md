@@ -24,6 +24,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 4. ### Python Başlangıç Düzey Eğitimler
      - #### Türkçe Eğitimler
        - [python-istihza.yazbel](https://python-istihza.yazbel.com/)
+       - [Turkcell Gelecegiyazanlar](https://gelecegiyazanlar.turkcell.com.tr/egitimler)
        - [Python 3 Programlama Diline Giriş](http://www.bedriemir.com/Python/content.html)
      - #### Yabancı Dilde Eğitimler
        - [programiz](https://www.programiz.com/python-programming)
@@ -72,6 +73,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Bilgisayar Bilimcisi Gibi Düşünmek ](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf)
 
 10. ### Faydalı Konular-Makaleler-Yazılar
+     - [Veribilimcisi.com](https://veribilimcisi.com/)
      - [Geliştiriciler için tavsiyeler](https://www.tutorialspoint.com/developers_best_practices/index.htm)
      - [Bilgisayar Sözlüğü](https://www.tutorialspoint.com/computer_glossary.htm)
      - [Etkili Özgeçmiş Yazımı](https://www.tutorialspoint.com/effective_resume_writing.htm)
@@ -96,15 +98,20 @@ Java, Go, Python, Node.js, vb., kod arama / çapraz referanslar, Açık Kaynak i
      - [tickgit](https://www.tickgit.com/)  
 Yüzey TODOiyileştirme için geri dönmeye değer kod alanlarını belirlemek için yorumlar (ve diğer işaretler).
 
-13. ### Seminer & Meetup
+13. ### Seminer - Meetup - Topluluklar
 
+     - [Turkish AI Hub](https://www.youtube.com/channel/UCpB-u_FJegcM0WrMtr-W27w)   
      - [meetup](https://www.meetup.com/tr-TR/)  
-     - [rltheoryseminars](https://sites.google.com/view/rltheoryseminars)  
+     - [rltheoryseminars](https://sites.google.com/view/rltheoryseminars)
+     - [GDG Lviv](https://www.youtube.com/channel/UC5nknQj-2llSNd-jqXr4d_w)   
      
-14. ### Faydalı olabilecek linkler
+14. ### İzlenesi Şeyler
+
+     - [The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
+     
+15. ### Faydalı olabilecek linkler
 
      - [regex101](https://regex101.com/)  
      - [Github Help](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  
-     
      
      
