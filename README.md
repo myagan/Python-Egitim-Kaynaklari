@@ -63,6 +63,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 
 
 8. ### Eğitim Uygulama ve Web Siteleri
+     - [İntel Developer Zone](https://software.intel.com/en-us)
      - [coursera](https://www.coursera.org/)
      - [edx](https://www.edx.org/)
      - [edureka](https://www.edureka.co/blog/)
