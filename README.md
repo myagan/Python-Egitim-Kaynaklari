@@ -41,6 +41,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Codesignal](https://codesignal.com/)
      - [Topcoder](https://www.topcoder.com/)
      - [zindi.africa](https://zindi.africa/hackathons)
+     - [Callforcode](https://callforcode.org/)
      - [Stackoverflow](https://stackoverflow.com/)
 
 6. ### Python Modül ve Frameworkler
@@ -73,6 +74,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Bilgisayar Bilimcisi Gibi Düşünmek ](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf)
 
 10. ### Faydalı Konular-Makaleler-Yazılar
+     - [Deep Learning Türkiye.com](https://medium.com/deep-learning-turkiye)
      - [Veribilimcisi.com](https://veribilimcisi.com/)
      - [Geliştiriciler için tavsiyeler](https://www.tutorialspoint.com/developers_best_practices/index.htm)
      - [Bilgisayar Sözlüğü](https://www.tutorialspoint.com/computer_glossary.htm)
