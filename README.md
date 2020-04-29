@@ -63,6 +63,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Openml](https://www.openml.org/)
      - [Cloudxlab](https://cloudxlab.com/)
      - [Machinehack](https://www.machinehack.com/)
+     - [Datalore Jetbrains](https://datalore.io)
 
 
 8. ### Eğitim Uygulama ve Web Siteleri
@@ -74,6 +75,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Udacity](https://www.udacity.com/)
      - [Stanford Online](https://online.stanford.edu/courses-programs?type=All)
      - [Intel AI Developer Program Courses](https://software.intel.com/en-us/ai/courses)
+     - [JetBrains Academy Python](https://hyperskill.org/onboarding/project?track=391)
      
 9. ### Kitaplar
      - [Bilgisayar Bilimcisi Gibi Düşünmek ](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf)
