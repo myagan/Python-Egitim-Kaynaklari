@@ -7,8 +7,8 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 ## İçerikler
 </br>
 
-1. ### İngilizce Eğitim
-     - [Miniversite](http://www.ozkancelen.com/)
+1. ### Dil Eğitimi
+     - [Miniversite - ingilizce Eğitim](http://www.ozkancelen.com/)
        - [Miniversite Youtube](https://www.youtube.com/channel/UCyaeK2QAUXoeL1iYykgFHIg/playlists)
        
 2. ### Matematik Eğitimi
@@ -60,6 +60,9 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Jupyter Notebook](https://jupyter.org/try)
      - [Kaggle Notebook](https://www.kaggle.com/)
      - [Google Colab](https://colab.research.google.com/)
+     - [Openml](https://www.openml.org/)
+     - [Cloudxlab](https://cloudxlab.com/)
+     - [Machinehack](https://www.machinehack.com/)
 
 
 8. ### Eğitim Uygulama ve Web Siteleri
