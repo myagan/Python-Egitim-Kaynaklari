@@ -88,7 +88,18 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Etkili Özgeçmiş Yazımı](https://www.tutorialspoint.com/effective_resume_writing.htm)
      - [Bilgisayar Bilimlerinde Kim Kimdir](https://www.tutorialspoint.com/computer_whoiswho.htm)
 
-11. ### Örnek Uygulamalar
+11. ### Open Source
+
+     - [github](https://github.com/open-source)
+     - [opensource.google](https://opensource.google/projects/explore/featured)
+     - [opensource.facebook](https://opensource.facebook.com/projects)
+     - [code.nasa](https://code.nasa.gov/)
+     - [teslamotors](https://github.com/teslamotors)
+     - [opensource.com](https://opensource.com/)
+     - [opensource.org](https://opensource.org/)
+     - [Sourceforge](https://sourceforge.net/)
+     - [opensource eğitim](https://opensource.guide/tr/)
+     - [docusaurus](https://docusaurus.io/)
 
 12. ### Kod Arama ve Tamamlama İşlemleri İçin
 
