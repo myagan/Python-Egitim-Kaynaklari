@@ -8,8 +8,10 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 </br>
 
 1. ### Dil Eğitimi
+
      - [Miniversite - ingilizce Eğitim](http://www.ozkancelen.com/)
        - [Miniversite Youtube](https://www.youtube.com/channel/UCyaeK2QAUXoeL1iYykgFHIg/playlists)
+     - [Fk Language](https://www.youtube.com/channel/UCFct4bf2mKCT7gP0lz7RuJw)
        
 2. ### Matematik Eğitimi
      - [Khan Academy Türkçe](https://www.youtube.com/user/KhanAcademyTurkce/playlists)
