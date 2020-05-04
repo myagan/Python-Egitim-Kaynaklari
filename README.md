@@ -59,6 +59,19 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - Pandas Eğitim Kaynakları
        - [pandas.pydata.org](https://pandas.pydata.org/docs/)
        - [Pandas Egzersizleri (Mert Çobanov)](https://www.youtube.com/watch?v=8pn4hSZ-5ds&list=PLk54I7lqQSsaV8SxQDj19JVKfE_cM-Skp)
+       
+     - Seaborn Eğitim Kaynakları
+       - [seaborn.pydata.org](https://seaborn.pydata.org/tutorial.html)
+      
+     - Matplotlib Eğitim Kaynakları
+       - [Matplotlib](https://matplotlib.org/2.0.2/users/tutorials.html)
+       
+     - Keras Eğitim Kaynakları
+       - [Keras](https://keras.io/)
+       
+     - Tensorflow Eğitim Kaynakları
+       - [Tensorflow](https://www.tensorflow.org/tutorials)
+       
 
 7. ### Notebook
 
