@@ -9,12 +9,13 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 
 1. ### Dil Eğitimi
 
-     - [Miniversite - ingilizce Eğitim](http://www.ozkancelen.com/)
+     - [Miniversite - ingilizce Eğitim ++](http://www.ozkancelen.com/)
        - [Miniversite Youtube](https://www.youtube.com/channel/UCyaeK2QAUXoeL1iYykgFHIg/playlists)
      - [Fk Language](https://www.youtube.com/channel/UCFct4bf2mKCT7gP0lz7RuJw)
        
 2. ### Matematik Eğitimi
-     - [Khan Academy Türkçe](https://www.youtube.com/user/KhanAcademyTurkce/playlists)
+     - [Khan Academy Türkçe ++](https://www.youtube.com/user/KhanAcademyTurkce/playlists)
+     - [Geogebra ++](https://www.geogebra.org/)
      - [Ceyhun Hoca](https://www.youtube.com/channel/UCJIlDVrWCFbmGORmrKPom8w/playlists)
 
 3. ### Algoritma Eğitimi
@@ -32,12 +33,14 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
        - [programiz](https://www.programiz.com/python-programming)
        - [geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)
        - [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
-       - [Python-course-Magic-Methods](https://www.python-course.eu/python3_magic_methods.php#call%20method)
+       - [Python-course-Magic-Methods ++](https://www.python-course.eu/python3_magic_methods.php#call%20method)
        - [Data-flair](https://data-flair.training/blogs/python-namedtuple/)
        - [it-swarm](https://www.it-swarm.dev/tr/python-3.x/)
+       - [snakify](https://snakify.org/tr/)
+       - [askpython ++](https://www.askpython.com/)
 
 5. ### Python Orta düzey Alıştırmalar - Yarışmalar - Hackathon
-     - [hackerrank](https://www.hackerrank.com/)
+     - [hackerrank ++](https://www.hackerrank.com/)
      - [Google Codejam](https://codingcompetitions.withgoogle.com/codejam)
      - [hackerearth](https://www.hackerearth.com/)
      - [Codesignal](https://codesignal.com/)
@@ -70,14 +73,14 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 
 8. ### Eğitim Uygulama ve Web Siteleri
 
-     - [coursera](https://www.coursera.org/)
+     - [coursera ++](https://www.coursera.org/)
      - [edx](https://www.edx.org/)
      - [edureka](https://www.edureka.co/blog/)
      - [Udemy](https://www.udemy.com/)
      - [Udacity](https://www.udacity.com/)
      - [Stanford Online](https://online.stanford.edu/courses-programs?type=All)
-     - [Intel AI Developer Program Courses](https://software.intel.com/en-us/ai/courses)
-     - [JetBrains Academy Python](https://hyperskill.org/onboarding/project?track=391)
+     - [Intel AI Developer Program Courses ++](https://software.intel.com/en-us/ai/courses)
+     - [JetBrains Academy Python ++](https://hyperskill.org/onboarding/project?track=391)
      - [sanfoundry - Problem Çözümü](https://www.sanfoundry.com/python-problems-solutions/)
      - [cscircles](https://cscircles.cemc.uwaterloo.ca/)
      
