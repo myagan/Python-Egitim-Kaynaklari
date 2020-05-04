@@ -84,7 +84,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Datalore Jetbrains](https://datalore.io)
 
 
-8. ### Eğitim Uygulama ve Web Siteleri
+8. ### Eğitim (Mobil Uygulama ve Web Siteleri)
 
      - [coursera ++](https://www.coursera.org/)
      - [edx](https://www.edx.org/)
