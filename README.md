@@ -78,9 +78,14 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Stanford Online](https://online.stanford.edu/courses-programs?type=All)
      - [Intel AI Developer Program Courses](https://software.intel.com/en-us/ai/courses)
      - [JetBrains Academy Python](https://hyperskill.org/onboarding/project?track=391)
+     - [sanfoundry - Problem Çözümü](https://www.sanfoundry.com/python-problems-solutions/)
+     - [cscircles](https://cscircles.cemc.uwaterloo.ca/)
      
 9. ### Kitaplar
      - [Bilgisayar Bilimcisi Gibi Düşünmek ](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf)
+     - [devfreebooks](https://devfreebooks.github.io/python/)
+     - [codeburst](https://codeburst.io/15-free-ebooks-to-learn-python-c299943f9f2c)
+     - [freebookcentre](http://www.freebookcentre.net/Language/Free-Python-Books-Download.html)
 
 10. ### Faydalı Konular-Makaleler-Yazılar
      - [Deep Learning Türkiye.com](https://medium.com/deep-learning-turkiye)
