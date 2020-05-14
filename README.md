@@ -162,7 +162,7 @@ Yüzey TODOiyileştirme için geri dönmeye değer kod alanlarını belirlemek i
      - Python Tutorial - Python Eğitimi 
      - Python Training - Python Eğitimi 
      - Python Cheat Sheet - Python Kopya Kağıdı 
-     - Python Pitfalls - Python Tuzakları 
+     - Python Pitfalls - Python Tuzakları & Yaygın Hatalı Kullanımlar
      - Python Best Partices & Practices - Python En İyi Uygulamaları 
      - Writing Unit Test in Python - Pythonda Yazı Birim Testi
      
