@@ -159,6 +159,14 @@ Yüzey TODOiyileştirme için geri dönmeye değer kod alanlarını belirlemek i
      
 16. ### Faydalı olabilecek anahtar kelimeler
 
-     - python cheat sheet - Python Kopya Kağıdı 
-     - python cheat sheet - Python Kopya Kağıdı 
+     - Python Tutorial - Python Eğitimi 
+     - Python Training - Python Eğitimi 
+     - Python Cheat Sheet - Python Kopya Kağıdı 
+     - Python Pitfalls - Python Tuzakları 
+     - Python Best Partices & Practices - Python En İyi Uygulamaları 
+     - Writing Unit Test in Python - Pythonda Yazı Birim Testi
+     
+     
+     
+     
      
