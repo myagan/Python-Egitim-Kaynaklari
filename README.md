@@ -157,4 +157,8 @@ Yüzey TODOiyileştirme için geri dönmeye değer kod alanlarını belirlemek i
      - [regex101](https://regex101.com/)  
      - [Github Help](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  
      
+16. ### Faydalı olabilecek anahtar kelimeler
+
+     - python cheat sheet - Python Kopya Kağıdı 
+     - python cheat sheet - Python Kopya Kağıdı 
      
