@@ -110,7 +110,10 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Bilgisayar Sözlüğü](https://www.tutorialspoint.com/computer_glossary.htm)
      - [Etkili Özgeçmiş Yazımı](https://www.tutorialspoint.com/effective_resume_writing.htm)
      - [Bilgisayar Bilimlerinde Kim Kimdir](https://www.tutorialspoint.com/computer_whoiswho.htm)
-
+     - [Paketleme Yönergeleri](https://docs.fedoraproject.org/en-US/packaging-guidelines/Python/#_dependencies)
+     - [Zen of Python Metodolojisi](https://python.g-node.org/python-summerschool-2011/_media/materials/best_practices/haenel-best-practices-2011-09-standrews.pdf)
+     
+     
 11. ### Open Source
 
      - [github](https://github.com/open-source)
@@ -157,7 +160,7 @@ Yüzey TODOiyileştirme için geri dönmeye değer kod alanlarını belirlemek i
      - [regex101](https://regex101.com/)  
      - [Github Help](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  
      
-16. ### Faydalı olabilecek anahtar kelimeler
+16. ### Aramada faydalı olabilecek anahtar kelimeler
 
      - Python Tutorial - Python Eğitimi 
      - Python Training - Python Eğitimi 
@@ -165,6 +168,7 @@ Yüzey TODOiyileştirme için geri dönmeye değer kod alanlarını belirlemek i
      - Python Pitfalls - Python Tuzakları & Yaygın Hatalı Kullanımlar
      - Python Best Partices & Practices - Python En İyi Uygulamaları 
      - Writing Unit Test in Python - Pythonda Yazı Birim Testi
+     - methodologies
      
      
      
