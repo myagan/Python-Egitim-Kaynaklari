@@ -73,7 +73,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
        - [Tensorflow](https://www.tensorflow.org/tutorials)
        
 
-7. ### Notebook
+7. ### Notebook & Challenges
 
      - [Jupyter Notebook](https://jupyter.org/try)
      - [Kaggle Notebook](https://www.kaggle.com/)
@@ -82,6 +82,8 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Cloudxlab](https://cloudxlab.com/)
      - [Machinehack](https://www.machinehack.com/)
      - [Datalore Jetbrains](https://datalore.io)
+     - [Aicrowd](https://www.aicrowd.com)
+     
 
 
 8. ### Eğitim (Mobil Uygulama ve Web Siteleri)
@@ -112,6 +114,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Bilgisayar Bilimlerinde Kim Kimdir](https://www.tutorialspoint.com/computer_whoiswho.htm)
      - [Paketleme Yönergeleri](https://docs.fedoraproject.org/en-US/packaging-guidelines/Python/#_dependencies)
      - [Zen of Python Metodolojisi](https://python.g-node.org/python-summerschool-2011/_media/materials/best_practices/haenel-best-practices-2011-09-standrews.pdf)
+     - [Plos.org](https://plos.org/)
      
      
 11. ### Open Source
