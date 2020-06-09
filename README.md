@@ -38,6 +38,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
        - [it-swarm](https://www.it-swarm.dev/tr/python-3.x/)
        - [snakify](https://snakify.org/tr/)
        - [askpython ++](https://www.askpython.com/)
+       - [realpython best-practices](https://realpython.com/tutorials/best-practices/)
 
 5. ### Python Orta düzey Alıştırmalar - Yarışmalar - Hackathon
      - [hackerrank ++](https://www.hackerrank.com/)
@@ -48,6 +49,8 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [zindi.africa](https://zindi.africa/hackathons)
      - [Callforcode](https://callforcode.org/)
      - [Stackoverflow](https://stackoverflow.com/)
+     - [Aicrowd](https://www.aicrowd.com)
+     - [dictionary](https://www.dictionary.com/)
 
 6. ### Python Modül ve Frameworkler
      - Pypi aracılığıyla Modül & Framework arayabililirsiniz
@@ -73,7 +76,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
        - [Tensorflow](https://www.tensorflow.org/tutorials)
        
 
-7. ### Notebook & Challenges
+7. ### Notebook
 
      - [Jupyter Notebook](https://jupyter.org/try)
      - [Kaggle Notebook](https://www.kaggle.com/)
@@ -82,7 +85,6 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Cloudxlab](https://cloudxlab.com/)
      - [Machinehack](https://www.machinehack.com/)
      - [Datalore Jetbrains](https://datalore.io)
-     - [Aicrowd](https://www.aicrowd.com)
      
 
 
@@ -105,7 +107,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [codeburst](https://codeburst.io/15-free-ebooks-to-learn-python-c299943f9f2c)
      - [freebookcentre](http://www.freebookcentre.net/Language/Free-Python-Books-Download.html)
 
-10. ### Faydalı Konular-Makaleler-Yazılar
+10. ### Papers & Faydalı Konular-Makaleler-Yazılar
      - [Deep Learning Türkiye.com](https://medium.com/deep-learning-turkiye)
      - [Veribilimcisi.com](https://veribilimcisi.com/)
      - [Geliştiriciler için tavsiyeler](https://www.tutorialspoint.com/developers_best_practices/index.htm)
@@ -115,6 +117,8 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Paketleme Yönergeleri](https://docs.fedoraproject.org/en-US/packaging-guidelines/Python/#_dependencies)
      - [Zen of Python Metodolojisi](https://python.g-node.org/python-summerschool-2011/_media/materials/best_practices/haenel-best-practices-2011-09-standrews.pdf)
      - [Plos.org](https://plos.org/)
+     - [papers ssrn](https://papers.ssrn.com/)
+     - [dblp.uni-trier](https://dblp.uni-trier.de/)
      
      
 11. ### Open Source
@@ -152,7 +156,8 @@ Yüzey TODOiyileştirme için geri dönmeye değer kod alanlarını belirlemek i
      - [Turkish AI Hub](https://www.youtube.com/channel/UCpB-u_FJegcM0WrMtr-W27w)   
      - [meetup](https://www.meetup.com/tr-TR/)  
      - [rltheoryseminars](https://sites.google.com/view/rltheoryseminars)
-     - [GDG Lviv](https://www.youtube.com/channel/UC5nknQj-2llSNd-jqXr4d_w)   
+     - [GDG Lviv](https://www.youtube.com/channel/UC5nknQj-2llSNd-jqXr4d_w)
+     - [responsiblecomputing](https://responsiblecomputing.org/program/)
      
 14. ### İzlenesi Şeyler
 
