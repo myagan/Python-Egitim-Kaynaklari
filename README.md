@@ -119,6 +119,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Plos.org](https://plos.org/)
      - [papers ssrn](https://papers.ssrn.com/)
      - [dblp.uni-trier](https://dblp.uni-trier.de/)
+     - [connectedpapers - Okunan Makalenin referans ağlarını Görmek](https://www.connectedpapers.com/)
      
      
 11. ### Open Source
