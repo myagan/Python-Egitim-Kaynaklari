@@ -42,6 +42,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 
 5. ### Python Orta düzey Alıştırmalar - Yarışmalar - Hackathon
      - [hackerrank ++](https://www.hackerrank.com/)
+     - [edabit +](https://edabit.com/challenges)
      - [Google Codejam](https://codingcompetitions.withgoogle.com/codejam)
      - [hackerearth](https://www.hackerearth.com/)
      - [Codesignal](https://codesignal.com/)
@@ -51,6 +52,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Stackoverflow](https://stackoverflow.com/)
      - [Aicrowd](https://www.aicrowd.com)
      - [dictionary](https://www.dictionary.com/)
+     - [w3resource](https://www.w3resource.com/python-exercises/)
 
 6. ### Python Modül ve Frameworkler
      - Pypi aracılığıyla Modül & Framework arayabililirsiniz
@@ -120,6 +122,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [papers ssrn](https://papers.ssrn.com/)
      - [dblp.uni-trier](https://dblp.uni-trier.de/)
      - [connectedpapers - Okunan Makalenin referans ağlarını Görmek](https://www.connectedpapers.com/)
+     - [toptal - Kaliteli içeriklerle dolu bir blog](https://www.toptal.com/developers/blog)
      
      
 11. ### Open Source
