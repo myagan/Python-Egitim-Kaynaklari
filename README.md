@@ -93,6 +93,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
 8. ### Eğitim (Mobil Uygulama ve Web Siteleri)
 
      - [coursera ++](https://www.coursera.org/)
+     - [leetcode ++](https://leetcode.com/explore/)
      - [edx](https://www.edx.org/)
      - [edureka](https://www.edureka.co/blog/)
      - [Udemy](https://www.udemy.com/)
