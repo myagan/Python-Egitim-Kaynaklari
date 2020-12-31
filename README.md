@@ -17,6 +17,9 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Khan Academy Türkçe ++](https://www.youtube.com/user/KhanAcademyTurkce/playlists)
      - [Geogebra ++](https://www.geogebra.org/)
      - [Ceyhun Hoca](https://www.youtube.com/channel/UCJIlDVrWCFbmGORmrKPom8w/playlists)
+     - [geogebra](https://www.geogebra.org/m/qUvf6h3z)
+     - [mathforum](http://mathforum.org/dr.math/faq/formulas/)
+     
 
 3. ### Algoritma Eğitimi
      - [khanacademy](https://tr.khanacademy.org/computing/computer-science/algorithms)
@@ -39,6 +42,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
        - [snakify](https://snakify.org/tr/)
        - [askpython ++](https://www.askpython.com/)
        - [realpython best-practices](https://realpython.com/tutorials/best-practices/)
+       - [codecademy](https://www.codecademy.com/learn/learn-python-3)
 
 5. ### Python Orta düzey Alıştırmalar - Yarışmalar - Hackathon
      - [hackerrank ++](https://www.hackerrank.com/)
@@ -124,6 +128,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [dblp.uni-trier](https://dblp.uni-trier.de/)
      - [connectedpapers - Okunan Makalenin referans ağlarını Görmek](https://www.connectedpapers.com/)
      - [toptal - Kaliteli içeriklerle dolu bir blog](https://www.toptal.com/developers/blog)
+     - [aicrowd](https://www.aicrowd.com/challenges)
      
      
 11. ### Open Source
