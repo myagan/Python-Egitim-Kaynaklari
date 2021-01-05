@@ -1,5 +1,5 @@
 
-![banner resmi](https://www.disruptordaily.com/wp-content/uploads/2018/02/Artificial-Intelligence-and-Blockchain-Converge-in-Healthcare-to-Save-Lives-with-SkyChain.jpg)
+![banner resmi](https://www.uktech.news/wp-content/uploads/2020/02/shutterstock_1384554629-898x505.jpg)
 
 # Python-Egitim-Kaynaklari
 Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kaynakları (Video Eğitim, Makale, Çeviri, Slayt vb..) bulabilirsiniz. Kaynaklar hazırlanırken bu konuda uzman kişilerin önerileri ve eğitimde odaklanmayı sürdürülebilir hale getirebilen eğitimler baz alınmıştır, faydalı olması temennisiyle!
