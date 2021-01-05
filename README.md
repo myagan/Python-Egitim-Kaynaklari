@@ -82,7 +82,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - Tensorflow Eğitim Kaynakları
        - [Tensorflow](https://www.tensorflow.org/tutorials)
        
-     - Tensorflow Eğitim Kaynakları
+     - OpenCv Eğitim Kaynakları
        - [Opencv Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=CJXIjApHYVs&list=PLMoSUbG1Q_r_sc0x7ndCsqdIkL7dwrmNF&index=1)
        
        
