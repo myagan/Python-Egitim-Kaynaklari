@@ -1,5 +1,5 @@
 
-![banner resmi](https://miro.medium.com/max/1000/1*rZ35gCues-RXFTscRvX1iQ.png)
+![banner resmi](https://www.disruptordaily.com/wp-content/uploads/2018/02/Artificial-Intelligence-and-Blockchain-Converge-in-Healthcare-to-Save-Lives-with-SkyChain.jpg)
 
 # Python-Egitim-Kaynaklari
 Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kaynakları (Video Eğitim, Makale, Çeviri, Slayt vb..) bulabilirsiniz. Kaynaklar hazırlanırken bu konuda uzman kişilerin önerileri ve eğitimde odaklanmayı sürdürülebilir hale getirebilen eğitimler baz alınmıştır, faydalı olması temennisiyle!
@@ -57,6 +57,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Aicrowd](https://www.aicrowd.com)
      - [dictionary](https://www.dictionary.com/)
      - [w3resource](https://www.w3resource.com/python-exercises/)
+     - [codecademy](https://www.codecademy.com/learn/learn-python-3)
 
 6. ### Python Modül ve Frameworkler
      - Pypi aracılığıyla Modül & Framework arayabililirsiniz
@@ -80,6 +81,10 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
        
      - Tensorflow Eğitim Kaynakları
        - [Tensorflow](https://www.tensorflow.org/tutorials)
+       
+     - Tensorflow Eğitim Kaynakları
+       - [Opencv Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=CJXIjApHYVs&list=PLMoSUbG1Q_r_sc0x7ndCsqdIkL7dwrmNF&index=1)
+       
        
 
 7. ### Notebook
