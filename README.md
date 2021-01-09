@@ -12,6 +12,13 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [Miniversite - ingilizce Eğitim ++](http://www.ozkancelen.com/)
        - [Miniversite Youtube](https://www.youtube.com/channel/UCyaeK2QAUXoeL1iYykgFHIg/playlists)
      - [Fk Language](https://www.youtube.com/channel/UCFct4bf2mKCT7gP0lz7RuJw)
+     - [musixmatch](https://www.musixmatch.com/)
+     - [beelinguapp](https://www.beelinguapp.com/)
+     - [YDS - YÖKDİL İngilizce Kelime Ezber](https://play.google.com/store/apps/details?id=com.ydsdil.vocabbuilder)
+     - [blarma](https://www.blarma.com/)
+     - [Longman Dictionary English](https://play.google.com/store/apps/details?id=dictionary.english.freeapptck)
+     - [voscreen](https://www.voscreen.com/)
+     - [etkilipratikingilizce](https://etkilipratikingilizce.com/)
        
 2. ### Matematik Eğitimi
      - [Khan Academy Türkçe ++](https://www.youtube.com/user/KhanAcademyTurkce/playlists)
