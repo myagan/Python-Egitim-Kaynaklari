@@ -58,6 +58,8 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [dictionary](https://www.dictionary.com/)
      - [w3resource](https://www.w3resource.com/python-exercises/)
      - [codecademy](https://www.codecademy.com/learn/learn-python-3)
+     
+     
 
 6. ### Python Modül ve Frameworkler
      - Pypi aracılığıyla Modül & Framework arayabililirsiniz
@@ -113,13 +115,17 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [sanfoundry - Problem Çözümü](https://www.sanfoundry.com/python-problems-solutions/)
      - [cscircles](https://cscircles.cemc.uwaterloo.ca/)
      
-9. ### Kitaplar
+ 9. ### Projeler - Uygulama - Pratik
+
+     -[500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)  
+     
+10. ### Kitaplar
      - [Bilgisayar Bilimcisi Gibi Düşünmek ](https://erdiyar.files.wordpress.com/2010/03/bbgd_pio.pdf)
      - [devfreebooks](https://devfreebooks.github.io/python/)
      - [codeburst](https://codeburst.io/15-free-ebooks-to-learn-python-c299943f9f2c)
      - [freebookcentre](http://www.freebookcentre.net/Language/Free-Python-Books-Download.html)
 
-10. ### Papers & Faydalı Konular-Makaleler-Yazılar
+11. ### Papers & Faydalı Konular-Makaleler-Yazılar
      - [Deep Learning Türkiye.com](https://medium.com/deep-learning-turkiye)
      - [Veribilimcisi.com](https://veribilimcisi.com/)
      - [Geliştiriciler için tavsiyeler](https://www.tutorialspoint.com/developers_best_practices/index.htm)
@@ -136,7 +142,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [aicrowd](https://www.aicrowd.com/challenges)
      
      
-11. ### Open Source
+12. ### Open Source
 
      - [github](https://github.com/open-source)
      - [opensource.google](https://opensource.google/projects/explore/featured)
@@ -149,7 +155,7 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [opensource eğitim](https://opensource.guide/tr/)
      - [docusaurus](https://docusaurus.io/)
 
-12. ### Kod Arama ve Tamamlama İşlemleri İçin
+13. ### Kod Arama ve Tamamlama İşlemleri İçin
 
      - [codota](https://www.codota.com/)  
      Codota, dünyadaki tüm kodlardan öğrenilen bilgileri sağlayarak geliştiricilerin daha hızlı, daha iyi yazılım oluşturmalarına yardımcı olur. Eklenti mevcut.
@@ -166,7 +172,7 @@ Java, Go, Python, Node.js, vb., kod arama / çapraz referanslar, Açık Kaynak i
      - [tickgit](https://www.tickgit.com/)  
 Yüzey TODOiyileştirme için geri dönmeye değer kod alanlarını belirlemek için yorumlar (ve diğer işaretler).
 
-13. ### Seminer - Meetup - Topluluklar
+14. ### Seminer - Meetup - Topluluklar
 
      - [Turkish AI Hub](https://www.youtube.com/channel/UCpB-u_FJegcM0WrMtr-W27w)   
      - [meetup](https://www.meetup.com/tr-TR/)  
@@ -174,16 +180,16 @@ Yüzey TODOiyileştirme için geri dönmeye değer kod alanlarını belirlemek i
      - [GDG Lviv](https://www.youtube.com/channel/UC5nknQj-2llSNd-jqXr4d_w)
      - [responsiblecomputing](https://responsiblecomputing.org/program/)
      
-14. ### İzlenesi Şeyler
+15. ### İzlenesi Şeyler
 
      - [The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
      
-15. ### Faydalı olabilecek linkler
+16. ### Faydalı olabilecek linkler
 
      - [regex101](https://regex101.com/)  
      - [Github Help](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)  
      
-16. ### Aramada faydalı olabilecek anahtar kelimeler
+17. ### Aramada faydalı olabilecek anahtar kelimeler
 
      - Python Tutorial - Python Eğitimi 
      - Python Training - Python Eğitimi 
