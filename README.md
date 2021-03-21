@@ -20,36 +20,38 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [voscreen](https://www.voscreen.com/)
      - [etkilipratikingilizce](https://etkilipratikingilizce.com/)
        
+
 2. ### Matematik Eğitimi
      - [Khan Academy Türkçe ++](https://www.youtube.com/user/KhanAcademyTurkce/playlists)
      - [Geogebra ++](https://www.geogebra.org/)
      - [Ceyhun Hoca](https://www.youtube.com/channel/UCJIlDVrWCFbmGORmrKPom8w/playlists)
-     - [geogebra](https://www.geogebra.org/m/qUvf6h3z)
-     - [mathforum](http://mathforum.org/dr.math/faq/formulas/)
-     
+     - [Geogebra](https://www.geogebra.org/m/qUvf6h3z)
+     - [Mathforum](http://mathforum.org/dr.math/faq/formulas/)
+     - [Mathworld wolfram](https://mathworld.wolfram.com/)
+     - [Matefil](https://matefil.com/)
 
 3. ### Algoritma Eğitimi
-     - [khanacademy](https://tr.khanacademy.org/computing/computer-science/algorithms)
-     - [mobilhanem](https://www.mobilhanem.com/algoritma-egitimleri/)
+     - [Khanacademy](https://tr.khanacademy.org/computing/computer-science/algorithms)
+     - [Mobilhanem](https://www.mobilhanem.com/algoritma-egitimleri/)
      
      - [Diagrams](https://app.diagrams.net/)
      
 4. ### Python Başlangıç Düzey Eğitimler
      - #### Türkçe Eğitimler
-       - [python-istihza.yazbel](https://python-istihza.yazbel.com/)
+       - [Python-istihza.yazbel](https://python-istihza.yazbel.com/)
        - [Turkcell Gelecegiyazanlar](https://gelecegiyazanlar.turkcell.com.tr/egitimler)
        - [Python 3 Programlama Diline Giriş](http://www.bedriemir.com/Python/content.html)
      - #### Yabancı Dilde Eğitimler
-       - [programiz](https://www.programiz.com/python-programming)
-       - [geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)
+       - [Programiz](https://www.programiz.com/python-programming)
+       - [Geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar)
        - [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
        - [Python-course-Magic-Methods ++](https://www.python-course.eu/python3_magic_methods.php#call%20method)
        - [Data-flair](https://data-flair.training/blogs/python-namedtuple/)
-       - [it-swarm](https://www.it-swarm.dev/tr/python-3.x/)
-       - [snakify](https://snakify.org/tr/)
-       - [askpython ++](https://www.askpython.com/)
-       - [realpython best-practices](https://realpython.com/tutorials/best-practices/)
-       - [codecademy](https://www.codecademy.com/learn/learn-python-3)
+       - [t-swarm](https://www.it-swarm.dev/tr/python-3.x/)
+       - [Snakify](https://snakify.org/tr/)
+       - [Askpython ++](https://www.askpython.com/)
+       - [Realpython best-practices](https://realpython.com/tutorials/best-practices/)
+       - [Codecademy](https://www.codecademy.com/learn/learn-python-3)
 
 5. ### Python Orta düzey Alıştırmalar - Yarışmalar - Hackathon
      - [hackerrank ++](https://www.hackerrank.com/)
