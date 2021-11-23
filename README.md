@@ -133,6 +133,8 @@ Bu sayfada programlama ve yazılım süreçlerinde ihtiyaç duyabileceğimiz kay
      - [devfreebooks](https://devfreebooks.github.io/python/)
      - [codeburst](https://codeburst.io/15-free-ebooks-to-learn-python-c299943f9f2c)
      - [freebookcentre](http://www.freebookcentre.net/Language/Free-Python-Books-Download.html)
+     - [python-cheatsheet Documentation](https://buildmedia.readthedocs.org/media/pdf/pysheeet/latest/pysheeet.pdf)
+     - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
 11. ### Papers & Faydalı Konular-Makaleler-Yazılar
      - [Deep Learning Türkiye.com](https://medium.com/deep-learning-turkiye)
